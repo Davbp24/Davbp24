@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davbp24
 - 👀 I’m interested in learning how to code and programming languages and applications of various sorts.
-- 🌱 I’m currently learning Java and Web Development
-- 💞️ I’m looking to collaborate on simple projects that help me learn how to code and be an effective software engineer.
+- 🌱 I’m currently learning Java, Python, and Web Development
+- 💞️ I’m looking to collaborate on complex projects that help me learn how to code and be an effective software engineer.
 - 📫 How to reach me - Through my profile, my email - daviddbp.buciopaz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like electric skateboards
