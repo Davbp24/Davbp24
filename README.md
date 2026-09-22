@@ -4,8 +4,11 @@
   - I have worked on projects that involve HTML, CSS, JavaScript, Java, React, chrome extension technologies, Socket.io and even some Unity.
     
   - Some projects to highlight on my profile -> Inline: A chrome extension that allows users to save note-taking data straight onto the webpage, where a revisit will bring back the data for that specific webpage | WhiteFlow: A real-time collaboration platform that allows a group of people to think of ideas and more in a singular room utilizing a room code and chat, draw, post, and write anything their mind can think of!
+ 
+  - The projects I am working on currently include a movie Backend Service API, an open-source project, and my personal portfolio. 
     
-- 💞️ I’m looking to collaborate on complex projects that help me expand my skills in coding and software design choices. I'm more interested in Full-Stack projects and the implementation behind them. My goal is to create a project that utilizes several services with optimized infrastructure. 
+- 💞️ I’m looking to collaborate on complex projects that help me expand my skills in coding and software design choices. I'm more interested in Full-Stack projects and the implementation behind them. My goal is to create a project that utilizes several services with optimized infrastructure.
+- I have the personal goal of working as a software engineer and gaining more technical experience.
 - 📫 How to reach me - Through my profile, my email - daviddbp.buciopaz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like electric skateboards
